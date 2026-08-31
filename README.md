@@ -8,9 +8,9 @@
 
 ## 下载
 
-正式安装包将只通过本仓库的 **Releases** 页面提供。发布时请同时核对 Release 说明中的 APK 文件名、SHA-256 与签名证书指纹；不要从转载页面或不明网盘下载安装包。
+正式安装包只通过本仓库的 [Releases](https://github.com/yanxu-orange/yancang/releases) 页面提供。请同时核对 Release 说明中的 APK 文件名、SHA-256 与签名证书指纹；不要从转载页面或不明网盘下载安装包。
 
-> 当前仓库草案尚未发布正式 APK。
+当前正式版本：`0.1.0`
 
 ## 主要能力
 
