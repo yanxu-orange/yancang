@@ -8,9 +8,7 @@
 
 ## 下载
 
-正式安装包只通过本仓库的 [Releases](https://github.com/yanxu-orange/yancang/releases) 页面提供。请同时核对 Release 说明中的 APK 文件名、SHA-256 与签名证书指纹；不要从转载页面或不明网盘下载安装包。
-
-当前正式版本：`0.1.0`
+[下载砚藏 0.1.0](https://github.com/yanxu-orange/yancang/releases/tag/v0.1.0)
 
 ## 主要能力
 
@@ -45,5 +43,3 @@
 作者：`yanxu-orange`
 
 制作鸣谢：小砚
-
-本仓库是砚藏的二进制发布与说明页面，不包含源码或源码归档。
