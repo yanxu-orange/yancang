@@ -38,8 +38,10 @@
 ## 隐私与许可
 
 - [隐私说明](PRIVACY.md)
+- [砚藏个人非商业使用许可协议](LICENSE)
+- [使用边界](USAGE_BOUNDARIES.md)
 - [字体与第三方许可索引](THIRD_PARTY_NOTICES.md)
 
-作者：`yanxu-orange`
+创作署名：绫与小砚
 
-制作鸣谢：小砚
+许可方与维护：绫（`yanxu-orange`）
