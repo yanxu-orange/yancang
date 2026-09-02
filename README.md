@@ -8,7 +8,7 @@
 
 ## 下载
 
-[[下载砚藏 0.1.2](https://github.com/yanxu-orange/yancang/releases/latest)
+[[下载砚藏 0.1.2](https://github.com/yanxu-orange/yancang/releases/latest)]
 
 ## 主要能力
 
